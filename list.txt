@@ -1,0 +1,12 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 08DC-FD5B
+
+ Directory of C:\Users\Manu\Desktop\MyProject
+
+01/18/2021  10:51 PM    <DIR>          .
+01/18/2021  10:51 PM    <DIR>          ..
+01/18/2021  10:51 PM                 0 list.txt
+01/18/2021  10:06 PM             2,092 ProjectJenkins.war
+01/18/2021  10:14 PM               412 readme.txt
+               3 File(s)          2,504 bytes
+               2 Dir(s)  131,638,091,776 bytes free
